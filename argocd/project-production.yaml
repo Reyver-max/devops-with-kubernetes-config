@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Reyver-max/devops-with-kubernetes-2026.git
+    repoURL: https://github.com/Reyver-max/devops-with-kubernetes-config.git
     targetRevision: main
     path: kustomize/overlays/production
 
